@@ -20,7 +20,7 @@
 - x86平台：支持CUDA的NVIDIA显卡
 - ARM平台：Jetson系列（Nano/Xavier等）或其他支持TensorRT的ARM设备
 - 网络环境：能访问RTSP视频流（如无人机相机）
-- 串口：用于Mavlink通信（如无人机Eport）
+- 串口：用于Mavlink通信（如大疆Eport）
 
 ### 软件要求
 - Python 3.6+
