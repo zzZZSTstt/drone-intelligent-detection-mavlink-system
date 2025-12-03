@@ -1,0 +1,16 @@
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 日志/临时文件
+*.log
+tmp/
+
+# 如有模型文件（比如.engine、.pth），也可以添加（体积大建议不上传）
+# *.engine
+# *.pth
